@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2AA795A3-CAFF-5024-1F96-97D20CD2F568}") = "turbulence", "Assembly-CSharp.csproj", "{6B9C6095-299C-4933-F6D9-238A917FB0F4}"
+EndProject
+Project("{2AA795A3-CAFF-5024-1F96-97D20CD2F568}") = "turbulence", "Assembly-CSharp-Editor.csproj", "{2F450C77-9731-9F40-9656-8952AAE61079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B9C6095-299C-4933-F6D9-238A917FB0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9C6095-299C-4933-F6D9-238A917FB0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9C6095-299C-4933-F6D9-238A917FB0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9C6095-299C-4933-F6D9-238A917FB0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F450C77-9731-9F40-9656-8952AAE61079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F450C77-9731-9F40-9656-8952AAE61079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F450C77-9731-9F40-9656-8952AAE61079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F450C77-9731-9F40-9656-8952AAE61079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
