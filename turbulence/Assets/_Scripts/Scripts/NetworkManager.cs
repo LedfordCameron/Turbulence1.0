@@ -5,6 +5,8 @@ using UnityEngine;
 public class NetworkManager : MonoBehaviour {
 
 	// Use this for initialization
+	//this is a test to make sure this is working.
+
 	void Start () {
 		Connect ();
 	}
